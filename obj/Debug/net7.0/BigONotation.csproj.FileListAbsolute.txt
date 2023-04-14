@@ -1,0 +1,15 @@
+D:\ExProjects\BigONotation\bin\Debug\net7.0\BigONotation.exe
+D:\ExProjects\BigONotation\bin\Debug\net7.0\BigONotation.deps.json
+D:\ExProjects\BigONotation\bin\Debug\net7.0\BigONotation.runtimeconfig.json
+D:\ExProjects\BigONotation\bin\Debug\net7.0\BigONotation.dll
+D:\ExProjects\BigONotation\bin\Debug\net7.0\BigONotation.pdb
+D:\ExProjects\BigONotation\obj\Debug\net7.0\BigONotation.csproj.AssemblyReference.cache
+D:\ExProjects\BigONotation\obj\Debug\net7.0\BigONotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExProjects\BigONotation\obj\Debug\net7.0\BigONotation.AssemblyInfoInputs.cache
+D:\ExProjects\BigONotation\obj\Debug\net7.0\BigONotation.AssemblyInfo.cs
+D:\ExProjects\BigONotation\obj\Debug\net7.0\BigONotation.csproj.CoreCompileInputs.cache
+D:\ExProjects\BigONotation\obj\Debug\net7.0\BigONotation.dll
+D:\ExProjects\BigONotation\obj\Debug\net7.0\refint\BigONotation.dll
+D:\ExProjects\BigONotation\obj\Debug\net7.0\BigONotation.pdb
+D:\ExProjects\BigONotation\obj\Debug\net7.0\BigONotation.genruntimeconfig.cache
+D:\ExProjects\BigONotation\obj\Debug\net7.0\ref\BigONotation.dll
